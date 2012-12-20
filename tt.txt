@@ -1,1 +1,0 @@
-刚刚使用了 RedHat 的 OpenShift 服务，试试有木有影响到 GitHub ^_^
